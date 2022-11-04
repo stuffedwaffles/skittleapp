@@ -1,1 +1,1 @@
-{'green': [], 'red': [], 'orange': [], 'purple': [0.5], 'yellow': []}
+{'green': [], 'red': [], 'orange': [], 'purple': [], 'yellow': []}

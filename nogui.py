@@ -34,10 +34,7 @@ def showStats():
     
     for color, percent_list in skittle_dict.items():
         if len(percent_list) == 0:
-            print()
-            print("There is currently no data in the Skittle Stat machine.")
-            print()
-            break
+            print(f"There is currently no data in the Skittle Stat machine for {color}.")
         else:
             percent_sum = 0
             for percent in percent_list:
@@ -48,7 +45,7 @@ def showStats():
             number_per_pack = percent_avgdec*totalPerPack
 
             print()
-            print(f"Color: {color} \tAverage Percent: {percent_avg} \tEstimated Number in Pack: {number_per_pack}")
+            print(f"Color: {color} \tAverage Percent: {percent_avg} \tEstimated Number in Pack of {totalPerPack}: {number_per_pack}")
             print()
 
         

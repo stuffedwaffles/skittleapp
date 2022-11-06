@@ -1,1 +1,0 @@
-{'green': [], 'red': [], 'orange': [], 'purple': [], 'yellow': []}

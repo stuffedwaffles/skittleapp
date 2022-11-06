@@ -11,7 +11,8 @@ import os
 
 folder = os.path.dirname(os.path.abspath(__file__))
 skittleFilePath = os.path.join(folder, "skittlestat.txt")
-
+f = open(skittleFilePath, "w")
+f.write("{'green': [], 'red': [], 'orange': [], 'purple': [], 'yellow': []}")
 
 windowHeight = 500
 windowWidth = 500

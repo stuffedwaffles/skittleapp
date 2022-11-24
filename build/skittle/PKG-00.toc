@@ -1,0 +1,71 @@
+('C:\\Users\\anika_gupta\\OneDrive - Cary Academy\\cool hacker '
+ 'stuff\\stuf\\actual projects\\skittleapp\\build\\skittle\\skittle.pkg',
+ {'BINARY': 1,
+  'DATA': 1,
+  'EXECUTABLE': 1,
+  'EXTENSION': 1,
+  'PYMODULE': 1,
+  'PYSOURCE': 1,
+  'PYZ': 0,
+  'SPLASH': 1},
+ [('PYZ-00.pyz',
+   'C:\\Users\\anika_gupta\\OneDrive - Cary Academy\\cool hacker '
+   'stuff\\stuf\\actual projects\\skittleapp\\build\\skittle\\PYZ-00.pyz',
+   'PYZ'),
+  ('struct',
+   'C:\\Users\\anika_gupta\\OneDrive - Cary Academy\\cool hacker '
+   'stuff\\stuf\\actual '
+   'projects\\skittleapp\\build\\skittle\\localpycs\\struct.pyc',
+   'PYMODULE'),
+  ('pyimod01_archive',
+   'C:\\Users\\anika_gupta\\OneDrive - Cary Academy\\cool hacker '
+   'stuff\\stuf\\actual '
+   'projects\\skittleapp\\build\\skittle\\localpycs\\pyimod01_archive.pyc',
+   'PYMODULE'),
+  ('pyimod02_importers',
+   'C:\\Users\\anika_gupta\\OneDrive - Cary Academy\\cool hacker '
+   'stuff\\stuf\\actual '
+   'projects\\skittleapp\\build\\skittle\\localpycs\\pyimod02_importers.pyc',
+   'PYMODULE'),
+  ('pyimod03_ctypes',
+   'C:\\Users\\anika_gupta\\OneDrive - Cary Academy\\cool hacker '
+   'stuff\\stuf\\actual '
+   'projects\\skittleapp\\build\\skittle\\localpycs\\pyimod03_ctypes.pyc',
+   'PYMODULE'),
+  ('pyimod04_pywin32',
+   'C:\\Users\\anika_gupta\\OneDrive - Cary Academy\\cool hacker '
+   'stuff\\stuf\\actual '
+   'projects\\skittleapp\\build\\skittle\\localpycs\\pyimod04_pywin32.pyc',
+   'PYMODULE'),
+  ('pyiboot01_bootstrap',
+   'C:\\Users\\anika_gupta\\AppData\\Local\\Programs\\Python\\Python39\\lib\\site-packages\\PyInstaller\\loader\\pyiboot01_bootstrap.py',
+   'PYSOURCE'),
+  ('pyi_rth_subprocess',
+   'C:\\Users\\anika_gupta\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_subprocess.py',
+   'PYSOURCE'),
+  ('pyi_rth_pyqt6',
+   'C:\\Users\\anika_gupta\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pyqt6.py',
+   'PYSOURCE'),
+  ('pyi_rth_pkgutil',
+   'C:\\Users\\anika_gupta\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_pkgutil.py',
+   'PYSOURCE'),
+  ('pyi_rth_inspect',
+   'C:\\Users\\anika_gupta\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_inspect.py',
+   'PYSOURCE'),
+  ('pyi_rth_multiprocessing',
+   'C:\\Users\\anika_gupta\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth_multiprocessing.py',
+   'PYSOURCE'),
+  ('pyi_rth__tkinter',
+   'C:\\Users\\anika_gupta\\AppData\\Local\\Programs\\Python\\Python39\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks\\pyi_rth__tkinter.py',
+   'PYSOURCE'),
+  ('skittle',
+   'C:\\Users\\anika_gupta\\OneDrive - Cary Academy\\cool hacker '
+   'stuff\\stuf\\actual projects\\skittleapp\\skittle.py',
+   'PYSOURCE')],
+ True,
+ False,
+ False,
+ [],
+ None,
+ None,
+ None)
